@@ -2,11 +2,11 @@
 django-twoscoops-project
 ========================
 
-A project template for Django 1.5.
+A project template for Django 1.6.
 
 To use this project follow these steps:
 
-#. Create your working environment
+#. Create your working environment (do use mkvirtualenv!)
 #. Install Django
 #. Create the new project using the django-two-scoops template
 #. Install additional dependencies
